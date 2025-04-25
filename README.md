@@ -10,7 +10,7 @@ Software Engineer at IGS, specializing in game development and AI applications.
 在 IGS 擔任軟體工程師，專注於遊戲開發和人工智慧應用。
 
 ## 🎮 Expertise | 專業領域
-- Game Development (Cocos2dx) | 遊戲開發
+- Game Development (Cocos2dx, CocosCreator, Godot, GMS) | 遊戲開發
 - Artificial Intelligence | 人工智慧
 - Data Analysis | 數據分析
 
